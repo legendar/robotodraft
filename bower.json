@@ -1,0 +1,15 @@
+{
+  "name": "robotodraft",
+  "version": "0.0.1",
+  "homepage": "https://github.com/raibutera/robotodraft",
+  "authors": [
+    "FontFaceKit",
+    "Rai Butera"
+  ],
+  "description": "Google's 'RobotoDraft' version of Google's Roboto Font",
+  "main": "robotodraft.scss",
+  "keywords": [
+    "scss"
+  ],
+  "license": "Apache 2.0"
+}

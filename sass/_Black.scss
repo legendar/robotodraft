@@ -1,7 +1,7 @@
 /* BEGIN Black */
 @font-face {
 	font-family: RobotoDraft;
-	@include fontdef-woff($FontPath, $FontName, $FontVersion, "Black");
+	@include fontdef-woff($RobotoDraftFontPath, $RobotoDraftFontName, $RobotoDraftFontVersion, "Black");
 	font-weight: 900;
 	font-style: normal;
 }

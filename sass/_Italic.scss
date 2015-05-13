@@ -1,13 +1,13 @@
 /* BEGIN Italic */
 @font-face {
 	font-family: RobotoDraft;
-	@include fontdef-woff($FontPath, $FontName, $FontVersion, "Italic");
+	@include fontdef-woff($RobotoDraftFontPath, $RobotoDraftFontName, $RobotoDraftFontVersion, "Italic");
 	font-weight: 400;
 	font-style: italic;
 }
 @font-face {
 	font-family: RobotoDraft;
-	@include fontdef-woff($FontPath, $FontName, $FontVersion, "Italic");
+	@include fontdef-woff($RobotoDraftFontPath, $RobotoDraftFontName, $RobotoDraftFontVersion, "Italic");
 	font-weight: normal;
 	font-style: italic;
 }

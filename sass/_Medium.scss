@@ -1,7 +1,7 @@
 /* BEGIN Medium */
 @font-face {
 	font-family: RobotoDraft;
-	@include fontdef-woff($FontPath, $FontName, $FontVersion, "Medium");
+	@include fontdef-woff($RobotoDraftFontPath, $RobotoDraftFontName, $RobotoDraftFontVersion, "Medium");
 	font-weight: 500;
 	font-style: normal;
 }
